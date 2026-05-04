@@ -10,9 +10,9 @@ Currently working with Python, SAP S/4, logistics TMS APIs, and the Power Platfo
 
 | Repository | What it does | Result |
 |---|---|---|
-| [supply-chain-automation](https://github.com/your-username/supply-chain-automation) | Delivery tracking RPA, customs overtime alerts, container capacity analysis | USD 1.3M saved · Zero penalties |
-| [inventory-billing](https://github.com/your-username/inventory-billing) | ETL pipeline for WMS↔SAP reconciliation and automated monthly billing | 3 days → 4 hours · 100% accuracy |
-| [ops-tools](https://github.com/your-username/hp-ops-tools) | Desktop utilities for daily supply chain team operations | Eliminates dozens of manual clicks per day |
+| [supply-chain-automation](https://github.com/CoteeMiguel/supply-chain-automation) | Delivery tracking RPA, customs overtime alerts, container capacity analysis | USD 1.3M saved · Zero penalties |
+| [inventory-billing](https://github.com/CoteeMiguel/inventory-billing) | ETL pipeline for WMS↔SAP reconciliation and automated monthly billing | 3 days → 4 hours · 100% accuracy |
+| [ops-tools](https://github.com/CoteeMiguel/hp-ops-tools) | Desktop utilities for daily supply chain team operations | Eliminates dozens of manual clicks per day |
 
 ---
 
